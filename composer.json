@@ -1,0 +1,21 @@
+{
+    "name": "willem/pagecount",
+    "description": "网页计数器",
+    "type": "1",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "willem",
+            "email": "1157818690@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+	"autoload": {
+        "psr-4": {
+            "PageCount\\" : "src/page"
+        }
+    }
+}
