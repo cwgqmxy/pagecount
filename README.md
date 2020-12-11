@@ -9,3 +9,4 @@ require "vendor/autoload.php";
 echo PageCountClass::pageCounts();
 ```
 
+如果是laravel框架生成文件会在public文件夹下。
